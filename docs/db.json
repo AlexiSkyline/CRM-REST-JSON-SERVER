@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alexis Evaristo",
+      "email": "ilegal_sprite@outlook.com",
+      "telefono": "9671245678",
+      "empresa": "Amazon",
+      "id": 1629918673007
+    },
+    {
+      "nombre": "Juan Pablo",
+      "email": "Juan@outlook.com",
+      "telefono": "324324",
+      "empresa": "Código con Juan",
+      "id": 1629919924538
+    }
+  ]
+}
